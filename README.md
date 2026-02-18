@@ -12,4 +12,4 @@ Use this template:
 ```
 
 # Contributors
-
+[Rohit](https://github.com/secantwave)
